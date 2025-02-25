@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "4L7+rMJT8jw=",
+  "dgSpecHash": "gzihE+K19qg=",
   "success": true,
   "projectFilePath": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Domain\\BankingCreditSystem.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\azram\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0-preview.1.24081.2\\microsoft.entityframeworkcore.9.0.0-preview.1.24081.2.nupkg.sha512",
+    "C:\\Users\\azram\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0-preview.1.24081.2\\microsoft.entityframeworkcore.abstractions.9.0.0-preview.1.24081.2.nupkg.sha512",
+    "C:\\Users\\azram\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0-preview.1.24081.2\\microsoft.entityframeworkcore.analyzers.9.0.0-preview.1.24081.2.nupkg.sha512",
+    "C:\\Users\\azram\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0-preview.1.24080.9\\microsoft.extensions.caching.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\azram\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0-preview.1.24080.9\\microsoft.extensions.caching.memory.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\azram\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-preview.1.24080.9\\microsoft.extensions.dependencyinjection.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\azram\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-preview.1.24080.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\azram\\.nuget\\packages\\microsoft.extensions.logging\\9.0.0-preview.1.24080.9\\microsoft.extensions.logging.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\azram\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0-preview.1.24080.9\\microsoft.extensions.logging.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\azram\\.nuget\\packages\\microsoft.extensions.options\\9.0.0-preview.1.24080.9\\microsoft.extensions.options.9.0.0-preview.1.24080.9.nupkg.sha512",
+    "C:\\Users\\azram\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.1.24080.9\\microsoft.extensions.primitives.9.0.0-preview.1.24080.9.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -11,7 +11,7 @@ public class Paginate<T>
     public int TotalPages { get; set; }
     public int TotalItems { get; set; }
     public bool HasPrevious  => PageNumber > 1;
-    public bool TotalItems => PageNumber < TotalPages;
+    public bool HasNextPage => PageNumber < TotalPages;
 
     public Paginate()
     {

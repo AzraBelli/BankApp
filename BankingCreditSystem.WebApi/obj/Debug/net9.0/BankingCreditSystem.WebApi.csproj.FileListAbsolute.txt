@@ -1,0 +1,7 @@
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\obj\Debug\net9.0\BankingCreditSystem.WebApi.csproj.AssemblyReference.cache
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\obj\Debug\net9.0\BankingCreditSystem.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\obj\Debug\net9.0\BankingCreditSystem.WebApi.AssemblyInfoInputs.cache
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\obj\Debug\net9.0\BankingCreditSystem.WebApi.AssemblyInfo.cs
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\obj\Debug\net9.0\BankingCreditSystem.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\obj\Debug\net9.0\BankingCreditSystem.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\obj\Debug\net9.0\BankingCreditSystem.WebApi.sourcelink.json

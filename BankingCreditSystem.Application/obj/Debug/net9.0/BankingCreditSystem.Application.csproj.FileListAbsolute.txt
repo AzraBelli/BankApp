@@ -1,0 +1,6 @@
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.AssemblyInfoInputs.cache
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.AssemblyInfo.cs
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.sourcelink.json
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.csproj.AssemblyReference.cache

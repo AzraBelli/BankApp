@@ -1,6 +1,6 @@
-using System.Linq.Expressions;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Query;
+using System.Linq.Expressions;
 
 namespace BankingCreditSystem.Core.Repositories;
 
@@ -146,11 +146,15 @@ public class EfRepositoryBase<TEntity,TId, TContext> : IAsyncRepository<TEntity,
         bool permanent = false,
         CancellationToken cancellationToken = default)
     {
-        if(!permanent)
+        if (!permanent)
+        {
             entity.DeletedDate = DateTime.UtcNow;
             Context.Set<TEntity>().Update(entity);
+        }
         else
+        {
             Context.Set<TEntity>().Remove(entity);
+        }
 
         await Context.SaveChangesAsync(cancellationToken);
         return entity;
