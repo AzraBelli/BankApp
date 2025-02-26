@@ -4,3 +4,15 @@ C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\B
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.csproj.CoreCompileInputs.cache
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.sourcelink.json
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.csproj.AssemblyReference.cache
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\bin\Debug\net9.0\BankingCreditSystem.Application.deps.json
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\bin\Debug\net9.0\BankingCreditSystem.Application.dll
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\bin\Debug\net9.0\BankingCreditSystem.Application.pdb
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\bin\Debug\net9.0\BankingCreditSystem.Core.dll
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\bin\Debug\net9.0\BankingCreditSystem.Domain.dll
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\bin\Debug\net9.0\BankingCreditSystem.Domain.pdb
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\bin\Debug\net9.0\BankingCreditSystem.Core.pdb
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingC.70F8ABEA.Up2Date
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.dll
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\refint\BankingCreditSystem.Application.dll
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\BankingCreditSystem.Application.pdb
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Application\obj\Debug\net9.0\ref\BankingCreditSystem.Application.dll

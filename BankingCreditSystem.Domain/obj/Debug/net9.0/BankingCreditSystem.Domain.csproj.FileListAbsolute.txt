@@ -4,3 +4,13 @@ C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Domain\obj\Debug\net9.0\Bankin
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Domain\obj\Debug\net9.0\BankingCreditSystem.Domain.csproj.CoreCompileInputs.cache
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Domain\obj\Debug\net9.0\BankingCreditSystem.Domain.sourcelink.json
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Domain\obj\Debug\net9.0\BankingCreditSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Domain\bin\Debug\net9.0\BankingCreditSystem.Domain.deps.json
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Domain\bin\Debug\net9.0\BankingCreditSystem.Domain.dll
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Domain\bin\Debug\net9.0\BankingCreditSystem.Domain.pdb
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Domain\bin\Debug\net9.0\BankingCreditSystem.Core.dll
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Domain\bin\Debug\net9.0\BankingCreditSystem.Core.pdb
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Domain\obj\Debug\net9.0\BankingC.A80E3F9A.Up2Date
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Domain\obj\Debug\net9.0\BankingCreditSystem.Domain.dll
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Domain\obj\Debug\net9.0\refint\BankingCreditSystem.Domain.dll
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Domain\obj\Debug\net9.0\BankingCreditSystem.Domain.pdb
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Domain\obj\Debug\net9.0\ref\BankingCreditSystem.Domain.dll
