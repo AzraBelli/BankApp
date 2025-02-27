@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\azram\\Cursor\\BankApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.application\\features\\individualcustomers\\commands\\create\\createindividualcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\individualcustomers\\commands\\create\\createindividualcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\handlers\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\handlers\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.application\\features\\individualcustomers\\queries\\getbyid\\getbyidindividualcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\individualcustomers\\queries\\getbyid\\getbyidindividualcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\handlers\\httpexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.application\\features\\individualcustomers\\queries\\getlist\\getlistindividualcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\individualcustomers\\queries\\getlist\\getlistindividualcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.application\\features\\individualcustomers\\rules\\individualcustomerbusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\individualcustomers\\rules\\individualcustomerbusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\httpproblemdetails\\validationproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\httpproblemdetails\\validationproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.application\\features\\corporatecustomers\\constants\\corporatecustomermessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\corporatecustomers\\constants\\corporatecustomermessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\httpproblemdetails\\notfoundproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\httpproblemdetails\\notfoundproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\httpproblemdetails\\internalservererrorproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\httpproblemdetails\\internalservererrorproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\httpproblemdetails\\authorizationproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\crosscuttingconcerns\\exceptions\\httpproblemdetails\\authorizationproblemdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +38,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs*",
+              "RelativeToolTip": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Handlers\\ExceptionHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T23:19:17.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T23:05:39.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotFoundProblemDetails.cs",
+              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\NotFoundProblemDetails.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\NotFoundProblemDetails.cs",
+              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\NotFoundProblemDetails.cs",
+              "RelativeToolTip": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\NotFoundProblemDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T23:04:54.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InternalServerErrorProblemDetails.cs",
+              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerErrorProblemDetails.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerErrorProblemDetails.cs",
+              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerErrorProblemDetails.cs",
+              "RelativeToolTip": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\InternalServerErrorProblemDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T23:04:33.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorizationProblemDetails.cs",
+              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\AuthorizationProblemDetails.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\AuthorizationProblemDetails.cs",
+              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\AuthorizationProblemDetails.cs",
+              "RelativeToolTip": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\AuthorizationProblemDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T23:03:58.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationProblemDetails.cs",
+              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
+              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
+              "RelativeToolTip": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\HttpProblemDetails\\ValidationProblemDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T23:02:26.378Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -74,67 +160,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IndividualCustomerBusinessRules.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Rules\\IndividualCustomerBusinessRules.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Rules\\IndividualCustomerBusinessRules.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Rules\\IndividualCustomerBusinessRules.cs",
-              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Rules\\IndividualCustomerBusinessRules.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T03:57:33.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateIndividualCustomerCommand.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Commands\\Create\\CreateIndividualCustomerCommand.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Commands\\Create\\CreateIndividualCustomerCommand.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Commands\\Create\\CreateIndividualCustomerCommand.cs",
-              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Commands\\Create\\CreateIndividualCustomerCommand.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAvwCYAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T03:54:44.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CorporateCustomerMessages.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\CorporateCustomers\\Constants\\CorporateCustomerMessages.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\CorporateCustomers\\Constants\\CorporateCustomerMessages.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\CorporateCustomers\\Constants\\CorporateCustomerMessages.cs",
-              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\CorporateCustomers\\Constants\\CorporateCustomerMessages.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T03:54:42.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GetByIdIndividualCustomerQuery.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Queries\\GetById\\GetByIdIndividualCustomerQuery.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Queries\\GetById\\GetByIdIndividualCustomerQuery.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Queries\\GetById\\GetByIdIndividualCustomerQuery.cs",
-              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Queries\\GetById\\GetByIdIndividualCustomerQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Title": "HttpExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "RelativeToolTip": "BankingCreditSystem.Core\\CrossCuttingConcerns\\Exceptions\\Handlers\\HttpExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T03:54:26.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetListIndividualCustomerQuery.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Queries\\GetList\\GetListIndividualCustomerQuery.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Queries\\GetList\\GetListIndividualCustomerQuery.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Queries\\GetList\\GetListIndividualCustomerQuery.cs",
-              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Queries\\GetList\\GetListIndividualCustomerQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T03:54:22.913Z",
+              "WhenOpened": "2025-02-27T23:00:05.707Z",
               "EditorCaption": ""
             }
           ]

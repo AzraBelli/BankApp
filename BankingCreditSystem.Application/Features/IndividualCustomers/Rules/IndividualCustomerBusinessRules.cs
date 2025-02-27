@@ -12,22 +12,16 @@ public class IndividualCustomerBusinessRules
         _repository = repository;
     }
 
-    public async Task NationalIdentityNumberCannotBeDuplicated(string nationalIdentityNumber)
-    {
-        var exists = await _repository.AnyAsync(c => c.NationalId == nationalIdentityNumber);
-        if (exists)
-            throw new Exception(IndividualCustomerMessages.NationalIdAlreadyExists);
-    }
     public async Task CustomerShouldExistWhenRequested(Guid id)
     {
         var exists = await _repository.AnyAsync(c => c.Id == id);
         if (!exists)
-            throw new Exception(IndividualCustomerMessages.CustomerNotFound);
+            throw new BusinessException(IndividualCustomerMessages.CustomerNotFound);
     }
     public async Task NationalIdCannotBeDuplicatedWhenInserted(string nationalId)
     {
         var exists = await _repository.AnyAsync(c => c.NationalId == nationalId);
         if (exists)
-            throw new Exception(IndividualCustomerMessages.NationalIdAlreadyExists);
+            throw new BusinessException(IndividualCustomerMessages.NationalIdAlreadyExists);
     }
 } 
