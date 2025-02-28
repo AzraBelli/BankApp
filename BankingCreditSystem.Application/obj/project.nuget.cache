@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mbusyIoOcEw=",
+  "dgSpecHash": "arfspqfEUZo=",
   "success": true,
   "projectFilePath": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\azram\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\azram\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\azram\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
     "C:\\Users\\azram\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\azram\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\azram\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
