@@ -28,12 +28,11 @@ public class CreateIndividualCustomerCommand : IRequest<CreateIndividualCustomer
         {
             await _businessRules.NationalIdCannotBeDuplicatedWhenInserted(command.Request.NationalId);
 
-            var individualCustomer = _mapper.Map<IndividualCustomer>(command);
-            var createdCustomer = await _individualCustomerRepository.AddAsync(individualCustomer);
-            return new CreateIndividualCustomerResponse{
-                Id = createdCustomer.Id,
-                Message = IndividualCustomerMessages.CustomerCreated
-            };
+            var individualCustomer = _mapper.Map<IndividualCustomer>(command.Request);
+            var createdCustomer = await _individualCustomerRepository.AddAsync(individualCustomer,cancellationToken);
+            var response=_mapper.Map<CreateIndividualCustomerResponse>(createdCustomer);
+            response.Message = IndividualCustomerMessages.CustomerCreated;
+            return response;
         }
     }
 } 

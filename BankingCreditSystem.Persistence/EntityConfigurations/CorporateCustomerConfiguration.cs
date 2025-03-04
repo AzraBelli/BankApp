@@ -7,12 +7,16 @@ public class CorporateCustomerConfiguration : IEntityTypeConfiguration<Corporate
 {
     public void Configure(EntityTypeBuilder<CorporateCustomer> builder)
     {
-        builder.ToTable("CorporateCustomers").HasKey(k => k.Id);
+        builder.ToTable("CorporateCustomers");
         builder.Property(c => c.CompanyName).HasMaxLength(100).IsRequired();
         builder.Property(c => c.TaxNumber).HasMaxLength(10).IsRequired();
         builder.Property(c => c.TaxOffice).HasMaxLength(50).IsRequired();
         builder.Property(c => c.CompanyRegistrationNumber).HasMaxLength(20).IsRequired();
         builder.Property(c => c.AuthorizedPersonName).HasMaxLength(50).IsRequired();
+        builder.Property(c => c.CompanyFoundationDate).IsRequired();
         builder.HasIndex(c => c.TaxNumber).IsUnique();
+       // builder.HasOne<Customer>()
+       //        .WithOne()
+       //        .HasForeignKey<CorporateCustomer>(b => b.Id);
     }
 } 

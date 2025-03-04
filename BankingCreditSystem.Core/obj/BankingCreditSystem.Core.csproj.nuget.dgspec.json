@@ -61,7 +61,7 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0-preview.1.24081.2, )"
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
