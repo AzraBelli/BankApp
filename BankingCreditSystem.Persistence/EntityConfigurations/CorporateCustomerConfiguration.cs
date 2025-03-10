@@ -14,9 +14,6 @@ public class CorporateCustomerConfiguration : IEntityTypeConfiguration<Corporate
         builder.Property(c => c.CompanyRegistrationNumber).HasMaxLength(20).IsRequired();
         builder.Property(c => c.AuthorizedPersonName).HasMaxLength(50).IsRequired();
         builder.Property(c => c.CompanyFoundationDate).IsRequired();
-        builder.HasIndex(c => c.TaxNumber).IsUnique();
-       // builder.HasOne<Customer>()
-       //        .WithOne()
-       //        .HasForeignKey<CorporateCustomer>(b => b.Id);
+        builder.HasIndex(c => c.TaxNumber).IsUnique();     
     }
 } 

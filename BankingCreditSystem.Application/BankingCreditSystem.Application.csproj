@@ -9,6 +9,19 @@
     <ProjectReference Include="..\BankingCreditSystem.Domain\BankingCreditSystem.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\CreditApplications\Commands\Delete\" />
+    <Folder Include="Features\CreditApplications\Commands\Update\" />
+    <Folder Include="Features\CreditApplications\Constants\" />
+    <Folder Include="Features\CreditApplications\Queries\GetById\" />
+    <Folder Include="Features\CreditApplications\Rules\" />
+    <Folder Include="Features\CreditTypes\Commands\Delete\" />
+    <Folder Include="Features\CreditTypes\Commands\Update\" />
+    <Folder Include="Features\CreditTypes\Constants\" />
+    <Folder Include="Features\CreditTypes\Queries\GetById\" />
+    <Folder Include="Features\CreditTypes\Rules\" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>

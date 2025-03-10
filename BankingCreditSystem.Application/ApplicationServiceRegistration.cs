@@ -2,6 +2,7 @@ using System.Reflection;
 using BankingCreditSystem.Application.Features.IndividualCustomers.Rules;
 using Microsoft.Extensions.DependencyInjection;
 using FluentValidation;
+using BankingCreditSystem.Application.Features.CorporateCustomers.Rules;
 
 namespace BankingCreditSystem.Application;
 
@@ -15,7 +16,7 @@ public static class ApplicationServiceRegistration
 
         // Business Rules
         services.AddScoped<IndividualCustomerBusinessRules>();
-        //services.AddScoped<CorporateCustomerBusinessRules>();
+        services.AddScoped<CorporateCustomerBusinessRules>();
         // Diğer business rules'lar buraya eklenecek
 
         return services;

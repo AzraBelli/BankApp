@@ -18,3 +18,5 @@ C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Persistence\obj\Debug\net9.0\B
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Persistence\obj\Debug\net9.0\refint\BankingCreditSystem.Persistence.dll
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Persistence\obj\Debug\net9.0\BankingCreditSystem.Persistence.pdb
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Persistence\obj\Debug\net9.0\ref\BankingCreditSystem.Persistence.dll
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Persistence\bin\Debug\net9.0\BankingCreditSystem.Persistence.runtimeconfig.json
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.Persistence\obj\Debug\net9.0\BankingCreditSystem.Persistence.genruntimeconfig.cache

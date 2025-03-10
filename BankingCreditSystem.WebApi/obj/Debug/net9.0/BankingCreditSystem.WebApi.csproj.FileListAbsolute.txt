@@ -132,7 +132,6 @@ C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\bin\Debug\net9.0\Bankin
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\bin\Debug\net9.0\BankingCreditSystem.Persistence.pdb
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\bin\Debug\net9.0\BankingCreditSystem.Core.pdb
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\bin\Debug\net9.0\BankingCreditSystem.Domain.pdb
-C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\obj\Debug\net9.0\BankingCreditSystem.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\obj\Debug\net9.0\scopedcss\bundle\BankingCreditSystem.WebApi.styles.css
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\obj\Debug\net9.0\staticwebassets.development.json
@@ -153,3 +152,5 @@ C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\obj\Debug\net9.0\ref\Ba
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\obj\Debug\net9.0\BankingCreditSystem.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\azram\Cursor\BankApp\BankingCreditSystem.WebAPI\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

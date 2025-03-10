@@ -24,9 +24,9 @@ public class MappingProfiles : Profile
             .ForMember(dest => dest.CompanyRegistrationNumber, opt => opt.MapFrom(src => src.Request.CompanyRegistrationNumber))
             .ForMember(dest => dest.AuthorizedPersonName, opt => opt.MapFrom(src => src.Request.AuthorizedPersonName))
             .ForMember(dest => dest.CompanyFoundationDate, opt => opt.MapFrom(src => src.Request.CompanyFoundationDate))
-            .ForMember(dest => dest.PhoneNumber, opt => opt.MapFrom(src => src.Request.PhoneNumber))
-            .ForMember(dest => dest.Email, opt => opt.MapFrom(src => src.Request.Email))
-            .ForMember(dest => dest.Address, opt => opt.MapFrom(src => src.Request.Address));
+            .ForMember(dest => dest.User.PhoneNumber, opt => opt.MapFrom(src => src.Request.PhoneNumber))
+            .ForMember(dest => dest.User.Email, opt => opt.MapFrom(src => src.Request.Email))
+            .ForMember(dest => dest.User.Address, opt => opt.MapFrom(src => src.Request.Address));
 
         CreateMap<Paginate<CorporateCustomer>, Paginate<CorporateCustomerResponse>>()
             .ForMember(dest => dest.Items, opt => opt.MapFrom(src => src.Items));
