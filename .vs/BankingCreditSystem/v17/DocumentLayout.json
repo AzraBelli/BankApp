@@ -3,71 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\azram\\Cursor\\BankApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BankingCreditSystemDb/True/SqlTable/dbo.ApplicationUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.application\\features\\individualcustomers\\commands\\create\\createindividualcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\individualcustomers\\commands\\create\\createindividualcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\Migrations\\20250310130626_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BankingCreditSystem.Persistence\\Migrations\\20250310130626_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30730857-1333-4827-AAD6-E9B2A77CE2CA}|BankingCreditSystem.WebAPI\\BankingCreditSystem.WebApi.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.webapi\\controllers\\individualcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30730857-1333-4827-AAD6-E9B2A77CE2CA}|BankingCreditSystem.WebAPI\\BankingCreditSystem.WebApi.csproj|solutionrelative:bankingcreditsystem.webapi\\controllers\\individualcustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\Migrations\\20250310130602_AddApplicationWideUserSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BankingCreditSystem.Persistence\\Migrations\\20250310130602_AddApplicationWideUserSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.core\\security\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\security\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\Migrations\\20250310130350_AddApplicationWideUserSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BankingCreditSystem.Persistence\\Migrations\\20250310130350_AddApplicationWideUserSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.application\\features\\individualcustomers\\dtos\\requests\\createindividualcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\individualcustomers\\dtos\\requests\\createindividualcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{034EB458-AEED-4E52-955E-9B7298B8749E}|BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.persistence\\entityconfigurations\\applicationuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034EB458-AEED-4E52-955E-9B7298B8749E}|BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj|solutionrelative:bankingcreditsystem.persistence\\entityconfigurations\\applicationuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.application\\features\\individualcustomers\\dtos\\responses\\createindividualcustomerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\individualcustomers\\dtos\\responses\\createindividualcustomerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.application\\features\\individualcustomers\\profiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\individualcustomers\\profiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.application\\features\\corporatecustomers\\profiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37021355-CFCB-4032-93A8-E7A1D736F654}|BankingCreditSystem.Application\\BankingCreditSystem.Application.csproj|solutionrelative:bankingcreditsystem.application\\features\\corporatecustomers\\profiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{034EB458-AEED-4E52-955E-9B7298B8749E}|BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.persistence\\entityconfigurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034EB458-AEED-4E52-955E-9B7298B8749E}|BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj|solutionrelative:bankingcreditsystem.persistence\\entityconfigurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{034EB458-AEED-4E52-955E-9B7298B8749E}|BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.persistence\\entityconfigurations\\corporatecustomerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034EB458-AEED-4E52-955E-9B7298B8749E}|BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj|solutionrelative:bankingcreditsystem.persistence\\entityconfigurations\\corporatecustomerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{034EB458-AEED-4E52-955E-9B7298B8749E}|BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.persistence\\entityconfigurations\\individualcustomerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034EB458-AEED-4E52-955E-9B7298B8749E}|BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj|solutionrelative:bankingcreditsystem.persistence\\entityconfigurations\\individualcustomerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F24CBDB3-52F6-4909-BF39-7126AFDC2D34}|BankingCreditSystem.Domain\\BankingCreditSystem.Domain.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24CBDB3-52F6-4909-BF39-7126AFDC2D34}|BankingCreditSystem.Domain\\BankingCreditSystem.Domain.csproj|solutionrelative:bankingcreditsystem.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{034EB458-AEED-4E52-955E-9B7298B8749E}|BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.persistence\\entityconfigurations\\creditapplicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034EB458-AEED-4E52-955E-9B7298B8749E}|BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj|solutionrelative:bankingcreditsystem.persistence\\entityconfigurations\\creditapplicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{034EB458-AEED-4E52-955E-9B7298B8749E}|BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.persistence\\entityconfigurations\\credittypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{034EB458-AEED-4E52-955E-9B7298B8749E}|BankingCreditSystem.Persistence\\BankingCreditSystem.Persistence.csproj|solutionrelative:bankingcreditsystem.persistence\\entityconfigurations\\credittypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F24CBDB3-52F6-4909-BF39-7126AFDC2D34}|BankingCreditSystem.Domain\\BankingCreditSystem.Domain.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24CBDB3-52F6-4909-BF39-7126AFDC2D34}|BankingCreditSystem.Domain\\BankingCreditSystem.Domain.csproj|solutionrelative:bankingcreditsystem.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.core\\entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\entities\\concrete\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.core\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|c:\\users\\azram\\cursor\\bankapp\\bankingcreditsystem.core\\entities\\concrete\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48FFD908-D114-4D6B-B147-FF4F1F4E64F2}|BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj|solutionrelative:bankingcreditsystem.core\\entities\\concrete\\operationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -77,68 +34,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "dbo.ApplicationUsers [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BankingCreditSystemDb/True/SqlTable/dbo.ApplicationUsers.sql",
-              "ToolTip": "dbo.ApplicationUsers [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-03-10T13:07:13.25Z",
+              "DocumentIndex": 2,
+              "Title": "HashingHelper.cs",
+              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\Security\\Hashing\\HashingHelper.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\Security\\Hashing\\HashingHelper.cs",
+              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\Security\\Hashing\\HashingHelper.cs",
+              "RelativeToolTip": "BankingCreditSystem.Core\\Security\\Hashing\\HashingHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:39:24.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "20250310130626_Init.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\Migrations\\20250310130626_Init.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Persistence\\Migrations\\20250310130626_Init.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\Migrations\\20250310130626_Init.cs",
-              "RelativeToolTip": "BankingCreditSystem.Persistence\\Migrations\\20250310130626_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IndividualCustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.WebApi\\Controllers\\IndividualCustomersController.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.WebApi\\Controllers\\IndividualCustomersController.cs",
+              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.WebApi\\Controllers\\IndividualCustomersController.cs",
+              "RelativeToolTip": "BankingCreditSystem.WebApi\\Controllers\\IndividualCustomersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:06:26.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250310130602_AddApplicationWideUserSystem.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\Migrations\\20250310130602_AddApplicationWideUserSystem.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Persistence\\Migrations\\20250310130602_AddApplicationWideUserSystem.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\Migrations\\20250310130602_AddApplicationWideUserSystem.cs",
-              "RelativeToolTip": "BankingCreditSystem.Persistence\\Migrations\\20250310130602_AddApplicationWideUserSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:06:02.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250310130350_AddApplicationWideUserSystem.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\Migrations\\20250310130350_AddApplicationWideUserSystem.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Persistence\\Migrations\\20250310130350_AddApplicationWideUserSystem.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\Migrations\\20250310130350_AddApplicationWideUserSystem.cs",
-              "RelativeToolTip": "BankingCreditSystem.Persistence\\Migrations\\20250310130350_AddApplicationWideUserSystem.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T13:03:51.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IndividualCustomerConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\EntityConfigurations\\IndividualCustomerConfiguration.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Persistence\\EntityConfigurations\\IndividualCustomerConfiguration.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\EntityConfigurations\\IndividualCustomerConfiguration.cs",
-              "RelativeToolTip": "BankingCreditSystem.Persistence\\EntityConfigurations\\IndividualCustomerConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:57:20.388Z",
+              "WhenOpened": "2025-03-12T01:31:25.838Z",
               "EditorCaption": ""
             },
             {
@@ -149,156 +70,35 @@
               "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Profiles\\MappingProfiles.cs",
               "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Profiles\\MappingProfiles.cs",
               "RelativeToolTip": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Profiles\\MappingProfiles.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAvwBsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:56:25.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MappingProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\CorporateCustomers\\Profiles\\MappingProfiles.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\CorporateCustomers\\Profiles\\MappingProfiles.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\CorporateCustomers\\Profiles\\MappingProfiles.cs",
-              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\CorporateCustomers\\Profiles\\MappingProfiles.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAawCEAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:56:06.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreditApplicationConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\EntityConfigurations\\CreditApplicationConfiguration.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Persistence\\EntityConfigurations\\CreditApplicationConfiguration.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\EntityConfigurations\\CreditApplicationConfiguration.cs",
-              "RelativeToolTip": "BankingCreditSystem.Persistence\\EntityConfigurations\\CreditApplicationConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:57:15.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreditTypeConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\EntityConfigurations\\CreditTypeConfiguration.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Persistence\\EntityConfigurations\\CreditTypeConfiguration.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\EntityConfigurations\\CreditTypeConfiguration.cs",
-              "RelativeToolTip": "BankingCreditSystem.Persistence\\EntityConfigurations\\CreditTypeConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:57:14.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\EntityConfigurations\\CustomerConfiguration.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Persistence\\EntityConfigurations\\CustomerConfiguration.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\EntityConfigurations\\CustomerConfiguration.cs",
-              "RelativeToolTip": "BankingCreditSystem.Persistence\\EntityConfigurations\\CustomerConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:53:04.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CorporateCustomerConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\EntityConfigurations\\CorporateCustomerConfiguration.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Persistence\\EntityConfigurations\\CorporateCustomerConfiguration.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\EntityConfigurations\\CorporateCustomerConfiguration.cs",
-              "RelativeToolTip": "BankingCreditSystem.Persistence\\EntityConfigurations\\CorporateCustomerConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:52:49.723Z",
+              "WhenOpened": "2025-03-12T01:28:42.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ApplicationUserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\EntityConfigurations\\ApplicationUserConfiguration.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Persistence\\EntityConfigurations\\ApplicationUserConfiguration.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Persistence\\EntityConfigurations\\ApplicationUserConfiguration.cs",
-              "RelativeToolTip": "BankingCreditSystem.Persistence\\EntityConfigurations\\ApplicationUserConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Title": "CreateIndividualCustomerResponse.cs",
+              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Dtos\\Responses\\CreateIndividualCustomerResponse.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Dtos\\Responses\\CreateIndividualCustomerResponse.cs",
+              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Dtos\\Responses\\CreateIndividualCustomerResponse.cs",
+              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Dtos\\Responses\\CreateIndividualCustomerResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:50:31.914Z",
+              "WhenOpened": "2025-03-12T01:26:27.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Domain\\Entities\\Customer.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Domain\\Entities\\Customer.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Domain\\Entities\\Customer.cs",
-              "RelativeToolTip": "BankingCreditSystem.Domain\\Entities\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CreateIndividualCustomerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Dtos\\Requests\\CreateIndividualCustomerRequest.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Dtos\\Requests\\CreateIndividualCustomerRequest.cs",
+              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Dtos\\Requests\\CreateIndividualCustomerRequest.cs",
+              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Dtos\\Requests\\CreateIndividualCustomerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:47:36.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Domain\\Entities\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Domain\\Entities\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Domain\\Entities\\ApplicationUser.cs",
-              "RelativeToolTip": "BankingCreditSystem.Domain\\Entities\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:45:54.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\Entities\\Concrete\\User.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\Entities\\Concrete\\User.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\Entities\\Concrete\\User.cs",
-              "RelativeToolTip": "BankingCreditSystem.Core\\Entities\\Concrete\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:39:39.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "JwtHelper.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\Security\\JWT\\JwtHelper.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\Security\\JWT\\JwtHelper.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\Security\\JWT\\JwtHelper.cs",
-              "RelativeToolTip": "BankingCreditSystem.Core\\Security\\JWT\\JwtHelper.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAvwDUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:39:30.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "OperationClaim.cs",
-              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\Entities\\Concrete\\OperationClaim.cs",
-              "RelativeDocumentMoniker": "BankingCreditSystem.Core\\Entities\\Concrete\\OperationClaim.cs",
-              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Core\\Entities\\Concrete\\OperationClaim.cs",
-              "RelativeToolTip": "BankingCreditSystem.Core\\Entities\\Concrete\\OperationClaim.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T12:39:02.193Z",
+              "WhenOpened": "2025-03-12T01:20:58.793Z",
               "EditorCaption": ""
             },
             {
@@ -340,6 +140,23 @@
             {
               "$type": "Bookmark",
               "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateIndividualCustomerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Commands\\Create\\CreateIndividualCustomerCommand.cs",
+              "RelativeDocumentMoniker": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Commands\\Create\\CreateIndividualCustomerCommand.cs",
+              "ToolTip": "C:\\Users\\azram\\Cursor\\BankApp\\BankingCreditSystem.Application\\Features\\IndividualCustomers\\Commands\\Create\\CreateIndividualCustomerCommand.cs",
+              "RelativeToolTip": "BankingCreditSystem.Application\\Features\\IndividualCustomers\\Commands\\Create\\CreateIndividualCustomerCommand.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAvwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:14:11.668Z",
+              "EditorCaption": ""
             }
           ]
         }
