@@ -1,9 +1,21 @@
-BANK APP with CURSOR
+# Banking Credit System
 
-The bank app was written entirely with Cursor.
-The project was shaped according to the desired requests and commands.
-I used onion architecture and layered CQRS approach and mediator design pattern.
-It's actually just a small part of the applications I make in real time.
-For the necessary architectural design, I examined the prompts I entered and the commands the cursor returned. I corrected them as needed and published them.
+A .NET Web API for a banking credit domain, built with Onion Architecture, CQRS and MediatR.
 
-While it's a helpful tool, we can't leave the entire coding process to it. Each command must be individually verified. The cursor is a tool that learns commands and desired behavior as the project develops.
+## Architecture
+
+| Layer | Responsibility |
+| --- | --- |
+| BankingCreditSystem.Domain | Entities and business rules |
+| BankingCreditSystem.Application | Commands, queries and handlers (CQRS + MediatR) |
+| BankingCreditSystem.Persistence | Data access and repositories |
+| BankingCreditSystem.WebApi | REST endpoints |
+| BankingCreditSystem.Core | Shared abstractions |
+
+## How I built it
+
+I used Cursor as an AI pair programmer. I designed the architecture, reviewed every generated change and corrected it where needed. AI speeds up the work, but every line still needs a human check.
+
+## Run it
+
+[steps: dotnet version, database, `dotnet run`]
