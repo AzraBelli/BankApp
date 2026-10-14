@@ -16,6 +16,4 @@ A .NET Web API for a banking credit domain, built with Onion Architecture, CQRS 
 
 I used Cursor as an AI pair programmer. I designed the architecture, reviewed every generated change and corrected it where needed. AI speeds up the work, but every line still needs a human check.
 
-## Run it
 
-[steps: dotnet version, database, `dotnet run`]
